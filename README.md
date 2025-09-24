@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Shruti Ambhore</h1>
 <h3 align="center">"Aspiring Software Developer | Java | Python | Machine Learning Enthusiast"</h3>
-<img align="right" alt="coding" width="400" src="<img width="740" height="555" alt="image" src="https://github.com/user-attachments/assets/4fd2056a-4808-4f6c-aa82-d32afe027f84" />
-">
+<img align="right" alt="coding" width="400" src="https://github.com/user-attachments/assets/dbb0708e-3101-402c-9d91-49388de940a3" />
 
 
 - 📫 How to reach me **ambhoreshruti3@gmail.com**
